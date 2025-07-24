@@ -26,7 +26,7 @@ This project focuses on detecting pneumonia and other chest X-ray abnormalities 
 
 This GitHub repository contains the code files and structure for the project. To view the full training pipeline, visualizations, and analysis, please refer to the Kaggle notebook:
 
-👉 **[Click here to view the full project on Kaggle](https://www.kaggle.com/code/abhishekbuddiga06/chest-x-ray-pneumonia-cnn-transfer-learning)**
+👉 **[Click here to view the full project on Kaggle](https://www.kaggle.com/code/abhishekbuddiga06/deep-learning-based-chest-x-ray-abnormality-detect)**
 
 ## 📄 License
 
